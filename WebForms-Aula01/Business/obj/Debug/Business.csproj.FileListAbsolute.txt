@@ -1,0 +1,6 @@
+C:\GHR\C-Fundamentos\WebForms-Aula01\Business\bin\Debug\Business.dll
+C:\GHR\C-Fundamentos\WebForms-Aula01\Business\bin\Debug\Business.pdb
+C:\GHR\C-Fundamentos\WebForms-Aula01\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\GHR\C-Fundamentos\WebForms-Aula01\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\GHR\C-Fundamentos\WebForms-Aula01\Business\obj\Debug\Business.dll
+C:\GHR\C-Fundamentos\WebForms-Aula01\Business\obj\Debug\Business.pdb

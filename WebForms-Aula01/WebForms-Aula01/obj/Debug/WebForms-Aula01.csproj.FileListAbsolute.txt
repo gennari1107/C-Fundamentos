@@ -54,3 +54,5 @@ C:\GHR\C-Fundamentos\WebForms-Aula01\WebForms-Aula01\obj\Debug\WebForms-Aula01.c
 C:\GHR\C-Fundamentos\WebForms-Aula01\WebForms-Aula01\obj\Debug\WebForms-Aula01.csproj.CopyComplete
 C:\GHR\C-Fundamentos\WebForms-Aula01\WebForms-Aula01\obj\Debug\WebForms-Aula01.dll
 C:\GHR\C-Fundamentos\WebForms-Aula01\WebForms-Aula01\obj\Debug\WebForms-Aula01.pdb
+C:\GHR\C-Fundamentos\WebForms-Aula01\WebForms-Aula01\bin\Business.dll
+C:\GHR\C-Fundamentos\WebForms-Aula01\WebForms-Aula01\bin\Business.pdb

@@ -28,7 +28,7 @@ namespace WebForms_Aula01
             {
                 Session[Util.Util.SessaoUsuarioLogado] = usuarioBll.UsuarioLogado;
 
-                Response.Redirect("Principal.aspx");
+                Response.Redirect("/Paginas/Principal.aspx");
             }
             else
                 lblMensagem.Text = "Usuario ou senha Invalido ERRO ";

@@ -9,11 +9,11 @@ namespace Business
 {
     public class UsuarioBLL
     {
-        public Usuario UsuarioLogado
+        public UsuarioModel UsuarioLogado
         {
             get
             {
-                Usuario usr = new Usuario();
+                UsuarioModel usr = new UsuarioModel();
                 usr.Login = "admin";
                 usr.Nome = "administrador";
 

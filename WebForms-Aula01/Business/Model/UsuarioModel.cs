@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Business.Model
 {
-    public class Usuario
+    public class UsuarioModel
     {
         public string Login { get; set; }
 
